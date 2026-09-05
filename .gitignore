@@ -1,0 +1,22 @@
+### Build Artifacts ###
+bin/
+out/
+*.class
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### Eclipse & NetBeans ###
+.classpath
+.project
+.settings/
+nbproject/
+dist/
+
+### VS Code & OS ###
+.vscode/
+.DS_Store
+Thumbs.db
